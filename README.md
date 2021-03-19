@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @kamalsayed
 - 👀 I’m interested in Web Developing
 - 🌱 I’m currently learning Javascrip
-- 💞️ I’m looking to collaborate on web development .
 - 📫 How to reach me kamalsayedin@gmail.com
 
 <!---
