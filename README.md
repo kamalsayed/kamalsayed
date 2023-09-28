@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kamalsayed
 - 👀 I’m interested in Web Developing
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently open to work 
 - 📫 How to reach me kamalsayedin@gmail.com
 
 <!---
