@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kamalsayed
-- 👀 I’m interested in Web Developing
+- 👀 I’m interested in Web and Crossplatform Mobile Development
 - 🌱 I’m currently open to work 
 - 📫 How to reach me kamalsayedin@gmail.com
 
