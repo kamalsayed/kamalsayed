@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kamalsayed
+- 👋 Hi, I’m @kamalsayed , Software Engineer.
 - 👀 I’m interested in Web and Crossplatform Mobile Development
 - 🌱 I’m currently open to work 
 - 📫 How to reach me kamalsayedin@gmail.com
